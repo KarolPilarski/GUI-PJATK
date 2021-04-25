@@ -1,0 +1,9 @@
+Kolejka napraw:
+
+
+Obecne naprawy:
+	(Naprawa nr.0: koszt: 90, miejsce serwisowe: (Stanowisko serwisowe nr.0 powierzchnia: 120.0), samochod: (Samochod terenowy nr.3: pojemnosc silnika: 4, kolor: bordowy, producent: Jeep, wysokosc zawieszenia: 35.0), data rozpoczecia: 1.1.2021, data zakonczenia: 4.1.2021, klient: (Osoba nr.2: imie: Albert, nazwisko: Szczesny, pesel: 4321110011, adres: Fioletowa 6, Legionowo, urodziny: 13.2.1980, data pierwszego wynajmu: null), miejsce parkingowe: (Miejsce parkingowe nr.1: przestrzen: 15.0, Obecnie zaparkowany pojazd: null, Uprawnieni: []))
+	(Naprawa nr.1: koszt: 30, miejsce serwisowe: (Stanowisko serwisowe nr.0 powierzchnia: 90.0), samochod: (Samochod miejski nr.1: pojemnosc silnika: 3, kolor: zielony, producent: Fiat, dlugosc: 4.0), data rozpoczecia: 1.1.2021, data zakonczenia: 2.1.2021, klient: (Osoba nr.0: imie: Karol, nazwisko: Pilarski, pesel: 7832877328, adres: Koszykowa 123, Warszawa, urodziny: 9.12.2000, data pierwszego wynajmu: null), miejsce parkingowe: (Miejsce parkingowe nr.2: przestrzen: 12.0, Obecnie zaparkowany pojazd: null, Uprawnieni: []))
+
+
+Zakonczone naprawy:

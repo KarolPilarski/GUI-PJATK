@@ -1,0 +1,14 @@
+Serwis 1:
+	Magazyny prywatne:
+		(Magazyn prywatny nr.4: Laczna powierzchnia: 50.0, Wynajmowany: false, Uprawnieni: [], Zajeta powierzchnia: 0.0, Zawartosc: [])
+		(Magazyn prywatny nr.7: Laczna powierzchnia: 70.0, Wynajmowany: false, Uprawnieni: [], Zajeta powierzchnia: 0.0, Zawartosc: [])
+		(Magazyn prywatny nr.1: Laczna powierzchnia: 100.0, Wynajmowany: false, Uprawnieni: [], Zajeta powierzchnia: 0.0, Zawartosc: [])
+		(Magazyn prywatny nr.6: Laczna powierzchnia: 150.0, Wynajmowany: false, Uprawnieni: [], Zajeta powierzchnia: 0.0, Zawartosc: [])
+		(Magazyn prywatny nr.0: Laczna powierzchnia: 200.0, Wynajmowany: false, Uprawnieni: [], Zajeta powierzchnia: 0.0, Zawartosc: [])
+		(Magazyn prywatny nr.3: Laczna powierzchnia: 250.0, Wynajmowany: false, Uprawnieni: [], Zajeta powierzchnia: 0.0, Zawartosc: [])
+		(Magazyn prywatny nr.2: Laczna powierzchnia: 300.0, Wynajmowany: true, Uprawnieni: [], Zajeta powierzchnia: 0.0, Zawartosc: [])
+		(Magazyn prywatny nr.5: Laczna powierzchnia: 320.0, Wynajmowany: false, Uprawnieni: [], Zajeta powierzchnia: 0.0, Zawartosc: [])
+	Magazyny serwisowe:
+		(Magazyn serwisowy nr.2: Laczna powierzchnia: 70.0, Zajmowana powierzchnia: 0.0, Zawartosc: [])
+		(Magazyn serwisowy nr.1: Laczna powierzchnia: 150.0, Zajmowana powierzchnia: 0.0, Zawartosc: [])
+		(Magazyn serwisowy nr.0: Laczna powierzchnia: 320.0, Zajmowana powierzchnia: 0.0, Zawartosc: [])
