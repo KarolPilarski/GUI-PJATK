@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import java.net.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+
+<Pane id="menuPane" prefWidth="800" prefHeight="450"  xmlns="http://javafx.com/javafx/11.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="ControllerMenu">
+    <stylesheets>
+        <URL value="@style.css"/>
+    </stylesheets>
+        <Button  id="rightBottomButton" layoutX="665" layoutY="330" prefWidth="105" prefHeight="67"/>
+        <Button  id="rightTopButton" layoutX="665" layoutY="230" prefWidth="105" prefHeight="67" onAction="#highScores"/>
+        <Button id="leftTopButton" layoutX="30" layoutY="230" prefWidth="100" prefHeight="72" onAction="#newGame"/>
+        <Button id="leftBottomButton" layoutX="30" layoutY="330" prefWidth="100" prefHeight="67" onAction="#exit"/>
+        <Button id="menuButton" layoutX="360" layoutY="420" prefWidth="79" prefHeight="24" />
+</Pane>
